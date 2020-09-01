@@ -1,0 +1,21 @@
+h2
+{
+color: red;
+
+}
+
+.box
+{
+    height: 30px;
+    width: 150px;
+    border: 1 px solid;
+    background: #000;
+    cursor: pointer;
+
+
+}
+.isActive
+{
+    color:blue;
+    background-color: cornsilk;
+}
